@@ -26,4 +26,4 @@ Charte du Verstohlen
 [fleury2022_verstohlen]
 
 ## Liens
-[[fiches/index|Boîte à fiches]]
+[[cooplab-vault/_staging/utopia.cooplab.org/mmw-content/fiches/index|Boîte à fiches]]

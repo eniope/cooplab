@@ -1,50 +1,41 @@
 import { PageLayout, SharedLayout } from "./quartz/cfg"
 import * as Component from "./quartz/components"
-import UpcomingEvents from "./quartz/components/UpcomingEvents"
 
 /**
- * Layout — utopia.cooplab.org
- * Living lab + CARe Robustesse & Soin
+ * Layout — cooplab.org (hub)
  *
  * Différences vs conversations :
- * - LinksHeader spécifique (sections utopia)
- * - RecentNotes dans la colonne droite (actualité du labo)
- * - Graph désactivé (graphe moins central ici)
- * - Composant UpcomingEvents dans right (à créer pour CARe)
+ * - Pas d'Explorer (site de quelques pages, pas un wiki)
+ * - Pas de Graph
+ * - Pas de Backlinks
+ * - Pas de TableOfContents (pages courtes)
+ * - LinksHeader simplifié (3 destinations)
+ * - Search conservé
  */
-
-// =================================================
-// SHARED
-// =================================================
 
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
 
   header: [
-    Component.LinksHeader(),   // → LinksHeader.tsx spécifique utopia
+    Component.LinksHeader(),   // → LinksHeader.tsx spécifique hub
   ],
 
   afterBody: [],
 
   footer: Component.Footer({
     links: {
-      "cooplab.org": "https://cooplab.org",
+      "utopia.cooplab.org": "https://utopia.cooplab.org",
+      "conversations.cooplab.org": "https://conversations.cooplab.org",
       "CC BY-SA": "https://creativecommons.org/licenses/by-sa/4.0/",
     },
   }),
 }
-
-// =================================================
-// LAYOUT — PAGE DE CONTENU
-// =================================================
 
 export const defaultContentPageLayout: PageLayout = {
   beforeBody: [
     Component.Breadcrumbs(),
     Component.ArticleTitle(),
     Component.ContentMeta(),
-    Component.TagList(),
-    Component.MobileOnly(Component.TableOfContents2()),
   ],
 
   left: [
@@ -52,48 +43,19 @@ export const defaultContentPageLayout: PageLayout = {
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
     Component.Darkmode(),
-    Component.DesktopOnly(
-      Component.Explorer({
-        folderClickBehavior: "link",
-        filterFn: (node) => node.name !== "templates",
-      })
-    ),
+    // Pas d'Explorer — le hub n'est pas un wiki
   ],
 
   right: [
-    Component.MobileOnly(
-      Component.Explorer({
-        folderClickBehavior: "link",
-        filterFn: (node) => node.name !== "templates",
-      })
-    ),
-    // Rencontres CARe depuis data/events.json
-    Component.DesktopOnly(UpcomingEvents()),
-    // RecentNotes : actualité du living lab
-    Component.DesktopOnly(
-      Component.RecentNotes({
-        title: "Récemment dans le labo",
-        limit: 4,
-        filter: (f) =>
-          f.slug!.startsWith("partage/") ||
-          f.slug!.startsWith("care/"),
-      })
-    ),
-    Component.DesktopOnly(Component.TableOfContents()),
-    Component.Backlinks(),
+    // Colonne droite quasi vide — le contenu respire
   ],
 }
-
-// =================================================
-// LAYOUT — PAGE LISTE
-// =================================================
 
 export const defaultListPageLayout: PageLayout = {
   beforeBody: [
     Component.Breadcrumbs(),
     Component.ArticleTitle(),
     Component.ContentMeta(),
-    Component.MobileOnly(Component.TableOfContents2()),
   ],
 
   left: [
@@ -101,22 +63,7 @@ export const defaultListPageLayout: PageLayout = {
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
     Component.Darkmode(),
-    Component.DesktopOnly(
-      Component.Explorer({
-        folderClickBehavior: "link",
-        filterFn: (node) => node.name !== "templates",
-      })
-    ),
   ],
 
-  right: [
-    Component.MobileOnly(
-      Component.Explorer({
-        folderClickBehavior: "link",
-        filterFn: (node) => node.name !== "templates",
-      })
-    ),
-    Component.DesktopOnly(Component.TableOfContents()),
-    Component.Backlinks(),
-  ],
+  right: [],
 }

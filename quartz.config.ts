@@ -2,23 +2,23 @@ import { QuartzConfig } from "./quartz/cfg"
 import * as Plugin from "./quartz/plugins"
 
 /**
- * Quartz — utopia.cooplab.org
- * Living lab d'enquête située. CARe Robustesse & Soin.
+ * Quartz — cooplab.org (hub)
+ * Point d'entrée de l'écosystème cooplab.
  * Fork de conversations-en-lisieres.collaborations
  */
 const config: QuartzConfig = {
   contentDir: "content",
 
   configuration: {
-    pageTitle: "Utopia",
-    pageTitleSuffix: " · cooplab.org",
+    pageTitle: "cooplab.org",
+    pageTitleSuffix: "",
 
     enableSPA: true,
-    enablePopovers: true,
+    enablePopovers: false,   // hub = navigation simple, pas de popover
 
-    baseUrl: "utopia.cooplab.org",
+    baseUrl: "cooplab.org",
 
-    ignorePatterns: ["private", "**/templates/", ".obsidian", "_static"],
+    ignorePatterns: ["private", "**/templates/", ".obsidian"],
 
     defaultDateType: "published",
     generateSocialImages: false,
@@ -33,26 +33,26 @@ const config: QuartzConfig = {
       },
       colors: {
         lightMode: {
-          light: "#f8faf8",       // fond légèrement vert-blanc
+          light: "#fdf8f6",       // fond légèrement terracotta-blanc
           lightgray: "#e5e5e5",
           gray: "#b8b8b8",
           darkgray: "#4e4e4e",
           dark: "#2b2b2b",
-          secondary: "#4A7C59",   // vert sage — couleur signature utopia/CARe
-          tertiary: "#7aab8a",
-          highlight: "rgba(74, 124, 89, 0.10)",
-          textHighlight: "#d4edda88",
+          secondary: "#C1623F",   // terracotta — couleur signature hub
+          tertiary: "#d4896a",
+          highlight: "rgba(193, 98, 63, 0.08)",
+          textHighlight: "#f5d5c888",
         },
         darkMode: {
-          light: "#161a17",
-          lightgray: "#2e3a31",
+          light: "#1a1210",
+          lightgray: "#3a2820",
           gray: "#646464",
           darkgray: "#d4d4d4",
           dark: "#ebebec",
-          secondary: "#7aab8a",
-          tertiary: "#4A7C59",
-          highlight: "rgba(74, 124, 89, 0.15)",
-          textHighlight: "#1a3a2288",
+          secondary: "#d4896a",
+          tertiary: "#C1623F",
+          highlight: "rgba(193, 98, 63, 0.12)",
+          textHighlight: "#5a2a1a88",
         },
       },
     },
@@ -70,10 +70,8 @@ const config: QuartzConfig = {
       }),
       Plugin.ObsidianFlavoredMarkdown({ enableInHtmlEmbed: false }),
       Plugin.GitHubFlavoredMarkdown(),
-      Plugin.TableOfContents(),
       Plugin.CrawlLinks({ markdownLinkResolution: "relative" }),
       Plugin.Description(),
-      Plugin.Latex({ renderEngine: "katex" }),
       Plugin.HardLineBreaks(),
     ],
 
@@ -89,7 +87,7 @@ const config: QuartzConfig = {
       Plugin.TagPage(),
       Plugin.ContentIndex({
         enableSiteMap: true,
-        enableRSS: true,
+        enableRSS: false,    // hub = pas de flux RSS propre
       }),
       Plugin.Assets(),
       Plugin.Static(),

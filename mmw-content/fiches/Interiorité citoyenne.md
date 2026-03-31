@@ -22,4 +22,4 @@ Travail intérieur permettant de soutenir une participation citoyenne lucide, re
 [@lilot_interiorite]
 
 ## Liens 
-[[fiches/index|Boîte à fiches]]
+[[cooplab-vault/_staging/utopia.cooplab.org/mmw-content/fiches/index|Boîte à fiches]]

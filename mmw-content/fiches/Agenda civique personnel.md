@@ -21,4 +21,4 @@ Il existe un travail personnel, souvent invisible, de clarification des priorit�
 [@dansembourg_interiorite_citoyenne] (piste)
 
 ## Liens 
-[[fiches/index|Boîte à fiches]]
+[[cooplab-vault/_staging/utopia.cooplab.org/mmw-content/fiches/index|Boîte à fiches]]

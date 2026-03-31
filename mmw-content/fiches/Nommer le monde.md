@@ -24,4 +24,4 @@ Nommer le monde est un acte de transformation, qui engage ceux qui nomment et re
 [@renault2007_transactionnelle]
 
 ## Liens
-[[fiches/index|Boîte à fiches]]
+[[cooplab-vault/_staging/utopia.cooplab.org/mmw-content/fiches/index|Boîte à fiches]]
