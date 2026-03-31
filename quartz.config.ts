@@ -7,7 +7,7 @@ import * as Plugin from "./quartz/plugins"
  * Fork de conversations-en-lisieres.collaborations
  */
 const config: QuartzConfig = {
-  contentDir: "content",
+  contentDir: "mmw-content",
 
   configuration: {
     pageTitle: "cooplab.org",
