@@ -16,9 +16,7 @@ import * as Component from "./quartz/components"
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
 
-  header: [
-    Component.LinksHeader(),   // → LinksHeader.tsx spécifique hub
-  ],
+  header: [],
 
   afterBody: [],
 
