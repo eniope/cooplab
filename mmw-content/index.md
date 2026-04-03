@@ -30,4 +30,6 @@ Trois espaces s'organisent autour de cette enquête :
 
 Lectrices, lecteurs ce que vous trouverez ici n'est pas achevé car ce n'est ni un résultat, ni un programme, ni une vitrine....
 
-![[cooplab-vault/_staging/cooplab/mmw-content/_static/images/Les-metiers-de-nos-pensees.jpg|476]]
+
+![Les métiers de nos pensées](/_static/images/Les-metiers-de-nos-pensees.jpg)
+
