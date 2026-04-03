@@ -7,9 +7,9 @@ import { QuartzComponent, QuartzComponentProps } from "./types"
 const LinksHeader: QuartzComponent = (_props: QuartzComponentProps) => {
   return (
     <nav class="links-header">
-      <a class="links-header-item" href="https://utopia.cooplab.org">Utopia</a>
-      <a class="links-header-item" href="https://conversations.cooplab.org">Conversations en lisières</a>
-      <a class="links-header-item" href="/a-propos">À propos</a>
+      <a class="links-header-item" href="/billets">Billets</a>
+      <a class="links-header-item" href="/boussole">Boussole</a>
+      <a class="links-header-item" href="/pages/a-propos">À propos</a>
     </nav>
   )
 }

@@ -13,7 +13,7 @@ const config: QuartzConfig = {
     pageTitle: "cooplab.org",
     pageTitleSuffix: "",
 
-    enableSPA: true,
+    enableSPA: false,
     enablePopovers: false,   // hub = navigation simple, pas de popover
 
     baseUrl: "cooplab.org",

@@ -1,24 +1,33 @@
 ---
 type: page
-title: "Conversations en lisières"
-date: 2026-01-04
+title: "cooplab.org"
+date: 2026-04-03
 status: ouverture
-orientation: conversations-situées
+orientation: enquete-situee
 regime: seuil
-description: "Un lieu ouvert, fait de seuils, de logiques et de gestes possibles, pour éprouver les conditions ordinaires des conversations."
+description: "Un habitant-chercheur au travail : habiter ensemble ce territoire qui va changer, et se préparer à l'urgence des communs."
+publish: true
 ---
+04/04/2026
 
-# Conversations en lisières
+Comme beaucoup d'entre nous je vis dans un territoire qui va changer alors ce qui se passe ici, sur ce site cooplab.org, c'est ma façon de ne pas détourner les yeux.
 
-> Ce dispositif documentaire est pensé comme un espace de création où se tissent des conversations et des alliances au sein même des pratiques de recherche engagées .  
+Pendant treize mois, j'ai participé à une recherche-action avec des habitants, des associatifs, des chercheurs. On a produit quelque chose ensemble puis le cadre formel s'est refermé.
 
-<p style="text-align:center;">
-  <img
-    src="/static/images/Les-metiers-de-nos-pensees.jpg"
-    alt="Les métiers de nos pensées"
-    style="max-width:60%; height:auto;"
-  />
-</p>
+Mais l'expérience, elle, ne se referme pas. Vivre laisse des traces irrévocables et ce qu'on en fait ensuite, c'est déjà de la création.
 
+cooplab.org est le lieu où je travaille ça - à voix haute, en processus, sans prétendre que c'est fini.
 
+C'est une enquête en cours, sur une préoccupation simple et grave : habiter ensemble ce territoire qui va changer et se préparer à l'urgence des communs.
 
+Trois espaces s'organisent autour de cette enquête :
+
+**cooplab.org**, là où vous lisez ce texte — les billets, les dossiers, la fabrique : l'enquête qui se documente elle-même.
+
+**[utopia.cooplab.org](https://utopia.cooplab.org)** — ce qui pourrait advenir ici, les futuribles que j'incube, l'agenda civique en train de se construire.
+
+**[these.cooplab.org](https://these.cooplab.org)** — une thèse-vie en train de s'écrire hors les murs sur ce que la recherche citoyenne fait à la connaissance.
+
+Lectrices, lecteurs ce que vous trouverez ici n'est pas achevé car ce n'est ni un résultat, ni un programme, ni une vitrine....
+
+![[cooplab-vault/_staging/cooplab/mmw-content/_static/images/Les-metiers-de-nos-pensees.jpg|476]]
