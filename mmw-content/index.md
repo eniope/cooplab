@@ -28,8 +28,7 @@ Trois espaces s'organisent autour de cette enquête :
 
 **[these.cooplab.org](https://these.cooplab.org)** — une thèse-vie en train de s'écrire hors les murs sur ce que la recherche citoyenne fait à la connaissance.
 
-Lectrices, lecteurs ce que vous trouverez ici n'est pas achevé car ce n'est ni un résultat, ni un programme, ni une vitrine....
+Lectrices, lecteurs ce que vous trouverez ici n'est pas achevé car ce n'est ni un résultat, ni un programme, ni une vitrine.
 
 
-![Les métiers de nos pensées](/_static/images/Les-metiers-de-nos-pensees.jpg)
-
+<p style="text-align:center;"> <img src="/_static/images/Les-metiers-de-nos-pensees.jpg" alt="Les métiers de nos pensées" style="max-width:60%; height:auto;" /> </p>
