@@ -8,9 +8,8 @@ regime: seuil
 description: "Un habitant-chercheur au travail : habiter ensemble ce territoire qui va changer, et se préparer à l'urgence des communs."
 publish: true
 ---
----
-title: cooplab.org
----
+
+## De quel "je" parlons nous ? 
 
 Entre intériorité citoyenne et futurs possibles (futuribles), il s'agit ici de tenir une ligne de travail : faire de l'expérience vécue non pas un reste mais une source légitime de connaissance.
 
