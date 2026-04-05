@@ -1,4 +1,4 @@
-![cooplab logo](https://cooplab.org/)
+![cooplab logo](https://raw.githubusercontent.com/eniope/cooplab/main/quartz/static/Logo.png)
 
 # cooplab.org
 
