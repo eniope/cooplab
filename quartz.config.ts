@@ -18,7 +18,7 @@ const config: QuartzConfig = {
 
     baseUrl: "cooplab.org",
 
-    ignorePatterns: ["private", "**/templates/", ".obsidian"],
+    ignorePatterns: ["private", "**/templates/", ".obsidian", "_static", "boussole"],
 
     defaultDateType: "published",
     generateSocialImages: false,
