@@ -5,7 +5,6 @@ import * as Component from "./quartz/components"
  * Layout — cooplab.org (hub)
  *
  * Différences vs conversations :
- * - Pas d'Explorer (site de quelques pages, pas un wiki)
  * - Pas de Graph
  * - Pas de Backlinks
  * - Pas de TableOfContents (pages courtes)
@@ -41,7 +40,11 @@ export const defaultContentPageLayout: PageLayout = {
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
     Component.Darkmode(),
-    // Pas d'Explorer — le hub n'est pas un wiki
+   Component.Explorer({
+        folderClickBehavior: "link",
+        filterFn: (node) => node.name !== "templates",
+      })
+
   ],
 
   right: [
