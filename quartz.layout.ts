@@ -40,7 +40,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
     Component.Darkmode(),
-   Component.Explorer({
+    Component.Explorer({
         folderClickBehavior: "link",
         filterFn: (node) => node.name !== "templates",
       })
@@ -48,7 +48,11 @@ export const defaultContentPageLayout: PageLayout = {
   ],
 
   right: [
-    // Colonne droite quasi vide — le contenu respire
+    Component.MobileOnly(
+      Component.Explorer({
+        folderClickBehavior: "link",
+        filterFn: (node) => node.name !== "templates",
+      })
   ],
 }
 
