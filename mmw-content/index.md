@@ -9,7 +9,7 @@ description: "Un habitant-chercheur au travail : habiter ensemble ce territoire 
 publish: true
 ---
 
-## De quel "je" parlons nous ? [^1]
+## De quelle intériorité citoyenne je parle ? [^1]
 
 Entre intériorité citoyenne et futurs possibles (futuribles), il s'agit ici de tenir une ligne de travail : faire de l'expérience vécue non pas un reste mais une source légitime de connaissance.
 
@@ -24,7 +24,8 @@ Quatre espaces s'organisent autour de cette enquête :
 
 Ce que vous trouverez ici n'est ni un résultat, ni un programme, ni une vitrine.
 C'est un travail en train de se faire...et c'est fait pour.
-[^1]: référence au chapitre "de quel "je" parlons nous" écrit par Julie Champagne dans son mémoire "Les associations dans les ressorts de la gestion néolibérale"  [les associations d'éducation populaire dans les ressorts de la gestion néolibérale](https://prixdesmemoires.cjdes.org/les-associations-deducation-populaire-dans-les-ressorts-de-la-gestion-neoliberale-une-etude-de-cas-a-saint-etienne/)
+[^1]: > « L’intériorité citoyenne est la capacité à développer la connaissance de soi et l’ancrage dans ses valeurs profondes,l’inspiration et la créativité,la bienveillance et la capacité d’empathie,la recherche de sens et le goût de la responsabilité au service de la vie commune. » [Nourrir l'intériorité citoyenne
+au service de la transformation socioenvironnementale](https://www.lilotcoop.com/interiorite-citoyenne) et référence au chapitre "De quel "je" parlons nous" écrit par Julie Champagne dans son mémoire "Les associations dans les ressorts de la gestion néolibérale"  [les associations d'éducation populaire dans les ressorts de la gestion néolibérale](https://prixdesmemoires.cjdes.org/les-associations-deducation-populaire-dans-les-ressorts-de-la-gestion-neoliberale-une-etude-de-cas-a-saint-etienne/)
 [^2]: La « thèse-vie » désigne un processus de production de connaissance ancré dans l'expérience vécue, hors dépendance première à la validation institutionnelle.
 
 <div style="margin-top: 2rem;">
