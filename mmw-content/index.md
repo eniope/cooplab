@@ -9,7 +9,7 @@ description: "Un habitant-chercheur au travail : habiter ensemble ce territoire 
 publish: true
 ---
 
-## De quelle intériorité citoyenne je parle ? [^1]
+## Ici, une question traverse tout : de quelle intériorité citoyenne je parle ? [^1]
 
 Entre intériorité citoyenne et futurs possibles (futuribles), il s'agit ici de tenir une ligne de travail : faire de l'expérience vécue non pas un reste mais une source légitime de connaissance.
 
