@@ -22,7 +22,7 @@ export const sharedPageComponents: SharedLayout = {
   footer: Component.Footer({
     links: {
       "utopia.cooplab.org": "https://utopia.cooplab.org",
-      "conversations.cooplab.org": "https://conversations.cooplab.org",
+      "conversations.cooplab.org": "https://these.cooplab.org",
       "CC BY-SA": "https://creativecommons.org/licenses/by-sa/4.0/",
     },
   }),
