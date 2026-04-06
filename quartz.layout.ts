@@ -48,11 +48,7 @@ export const defaultContentPageLayout: PageLayout = {
   ],
 
   right: [
-    Component.MobileOnly(
-      Component.Explorer({
-        folderClickBehavior: "link",
-        filterFn: (node) => node.name !== "templates",
-      })
+   
   ],
 }
 
