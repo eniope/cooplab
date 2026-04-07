@@ -35,20 +35,26 @@ export const defaultContentPageLayout: PageLayout = {
     Component.ContentMeta(),
   ],
 
-  left: [
+ left: [
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
     Component.Darkmode(),
-    Component.Explorer({
+    Component.DesktopOnly(
+      Component.Explorer({
         folderClickBehavior: "link",
         filterFn: (node) => node.name !== "templates",
       })
-
+    ),
   ],
 
   right: [
-   
+    Component.MobileOnly(
+      Component.Explorer({
+        folderClickBehavior: "link",
+        filterFn: (node) => node.name !== "templates",
+      })
+    ),
   ],
 }
 
