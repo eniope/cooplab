@@ -71,7 +71,7 @@ Pendant treize mois, j'ai participé à une recherche-action avec des habitants,
 
 Mais l'expérience, elle, ne se referme pas. Vivre laisse des traces irrévocables - et ce que l'on en fait ensuite relève déjà d'un travail de création.
 
-*Conversations en lisières* est né de ce déplacement intérieur lent. Il m'est devenu nécessaire de comprendre comment une pensée se forme depuis l'expérience et non depuis une position extérieure ou surplombante assumée.
+*cooplab.org/Conversations en lisières* est né de ce déplacement intérieur lent. Il m'est devenu nécessaire de comprendre comment une pensée se forme depuis l'expérience et non depuis une position extérieure ou surplombante assumée.
 
 ---
 
