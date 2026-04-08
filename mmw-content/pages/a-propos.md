@@ -21,7 +21,7 @@ draft: false
 
 ## Ne pas détourner les yeux
 
-« Comme beaucoup d'entre nous, je vis dans un territoire qui va changer. Alors ce qui se passe ici, sur cooplab.org, c'est ma façon de ne pas détourner les yeux. »
+> « Comme beaucoup d'entre nous, je vis dans un territoire qui va changer. Alors ce qui se passe ici, sur cooplab.org, c'est ma façon de ne pas détourner les yeux. »
 
 Cette posture s'ancre dans une conviction simple : nous habitons un monde où l'humanisme est fragile[^1].
 
