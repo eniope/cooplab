@@ -29,6 +29,9 @@ C'est depuis cette fragilité que je tente de tenir ensemble deux exigences : un
 
 Entre intériorité et futuribles, il s'agit pour moi de tenir une ligne de travail : faire de l'expérience vécue non pas un reste, mais une source légitime de connaissance.
 
+Je parle ici depuis une position particulière : celle d'un habitant-chercheur automissionné, sans cadre organisationnel stabilisé, avançant avec des ressources limitées et des décisions à prendre en situation.
+Le chemin n'est pas entièrement tracé. Il se précise en avançant, à partir de ce qui se passe réellement.
+
 ---
 
 ## Ce qu’est cooplab.org
@@ -62,6 +65,7 @@ Il s’organise en plusieurs dimensions reliées entre elles :
 - these.cooplab.org → une thèse-vie hors des cadres académiques classiques
 
 Ces espaces ne sont pas séparés : ils correspondent à différentes manières d’écrire, de penser et de se projeter.
+Ils forment un même dispositif, où l’expérience se déploie, se documente et se met à l’épreuve.
 
 ---
 
@@ -72,6 +76,8 @@ Pendant treize mois, j'ai participé à une recherche-action avec des habitants,
 Mais l'expérience, elle, ne se referme pas. Vivre laisse des traces irrévocables - et ce que l'on en fait ensuite relève déjà d'un travail de création.
 
 *cooplab.org/Conversations en lisières* est né de ce déplacement intérieur lent. Il m'est devenu nécessaire de comprendre comment une pensée se forme depuis l'expérience et non depuis une position extérieure ou surplombante assumée.
+
+La réponse se cherche dans l'équilibre entre deux gestes : la conversation, qui crée le milieu où l'on habite une situation ensemble, et la discussion, qui vient "secouer" et éprouver la solidité de ce qui a émergé. Faire de l'expérience une connaissance, c'est accepter ce passage du "tourner ensemble" à l'épreuve.
 
 ---
 
@@ -85,6 +91,10 @@ Ce déplacement a demandé un travail patient de déconstruction des évidences 
 
 Habiter en chercheur, c'est faire avec ses voisins, au sens large, dans des relations ordinaires où l'enquête se tisse avec d'autres au fil de situations partagées.
 
+C'est ici que s'ouvre l'espace de la conversation. Au sens premier, converser c'est "tourner ensemble" : ce n'est pas seulement se parler, c'est une manière de vivre avec, de partager du temps et une co-présence pour faire tenir le monde commun.
+
+Dans ce cadre, penser et agir avancent ensemble, sans garantie préalable.
+
 ---
 
 ## Ce qui se cherche ici
@@ -96,6 +106,8 @@ Il s’agit de rendre visibles les conditions dans lesquelles une pensée peut �
 Ce qui est recherché n'est ni la performance ni la certitude, mais une capacité accrue à agir avec lucidité dans un monde incertain, en prenant soin des conditions relationnelles et symboliques de l'action collective[^4].
 
 Cette démarche s'inscrit dans une expérience de citoyenneté : elle vise à soutenir une capacité effective à juger des situations vécues, à formuler des problèmes communs et à prendre part à leur transformation.
+
+Ce travail suppose une attention continue à ce qui se passe : observer, ajuster, comprendre en cours de route.
 
 ---
 
@@ -111,7 +123,7 @@ L'écriture n'est pas une conclusion : elle sert à garder trace, à rendre part
 
 Ici, rien n'est garanti.
 
-Il s'agit d'essayer, de revenir, d'ajuster.
+Il s'agit d'essayer, de revenir, d'ajuster, en prenant soin de ce qui rend ce chemin habitable.
 
 ---
 
