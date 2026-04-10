@@ -13,8 +13,8 @@ publish: true
 
 > _À quelles conditions ce que je produis comme connaissance tient - pour moi, et pour d’autres ?_
 
-Ce que j'ai vécu ne disparaît pas, il continue d'agir dans ce que je fais aujourd'hui. Et ce que je fais aujourd'hui m'oriente vers des futurs possibles que je contribue à rendre réels.
-C'est le mouvement qui traverse tout ce qui se construit ici. Ces futurs possibles - que j'appellerai par la suite futuribles, et que je documenterai au fil du chantier - ne sont pas des projections abstraites. Ils se construisent depuis le vécu, depuis le territoire, depuis les situations ordinaires qui font monde ensemble.
+Ce que j’ai vécu ne disparaît pas, je le retrouve dans ce que je fais aujourd’hui et ce que je fais aujourd’hui engage des futurs possibles.
+C'est le mouvement qui traverse tout ce qui se construit ici. Ces futurs possibles - que j'appellerai par la suite futuribles - ne sont pas des projections abstraites. Ils se construisent depuis le vécu, depuis le territoire, depuis les situations ordinaires qui font monde ensemble.
 
 ## Pour ne pas perdre le fil, cette enquête se déploie en quatre espaces
 
