@@ -27,8 +27,7 @@ C'est le mouvement qui traverse tout ce qui se construit ici. Ces futurs possibl
 
 Entre intériorité citoyenne et futurs possibles, il s'agit de tenir une ligne de travail : faire de l'expérience vécue une source légitime de connaissance.
 
-Ce que vous trouverez ici n'est ni un résultat, ni un programme, ni une vitrine.
-C'est un travail en train de se faire...et c'est fait pour.
+Ce que vous trouverez ici n’est ni un résultat, ni un programme, ni une vitrine. C’est un travail en train de se faire, une conversation continue : un mouvement en spirale où nos voix et nos vécus circulent pour transformer l'ordinaire en un territoire d'enquête partagé.
 
 [^1]: > « L’intériorité citoyenne est la capacité à développer la connaissance de soi et l’ancrage dans ses valeurs profondes,l’inspiration et la créativité,la bienveillance et la capacité d’empathie,la recherche de sens et le goût de la responsabilité au service de la vie commune. » [Nourrir l'intériorité citoyenne
 au service de la transformation socioenvironnementale](https://www.lilotcoop.com/interiorite-citoyenne)
