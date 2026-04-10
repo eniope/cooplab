@@ -23,9 +23,9 @@ C'est le mouvement qui traverse tout ce qui se construit ici. Ces futurs possibl
 - [these.cooplab.org](https://these.cooplab.org) : une thèse-vie hors les murs - sur ce que la recherche citoyenne fait à la connaissance[^2]
 - [cooplab.org/boussole](/boussole) : boussole : un point d’orientation pour circuler entre les espaces.
 
-## Ici, une question traverse tout : de quelle intériorité citoyenne je parle ? [^1]
+## une question traverse l'ensemble : de quelle intériorité citoyenne je parle ? [^1]
 
-Entre intériorité citoyenne et futurs possibles, il s'agit de tenir une ligne de travail : faire de l'expérience vécue non pas un reste mais une source légitime de connaissance.
+Entre intériorité citoyenne et futurs possibles, il s'agit de tenir une ligne de travail : faire de l'expérience vécue une source légitime de connaissance.
 
 Ce que vous trouverez ici n'est ni un résultat, ni un programme, ni une vitrine.
 C'est un travail en train de se faire...et c'est fait pour.
