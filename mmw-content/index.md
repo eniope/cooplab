@@ -1,37 +1,46 @@
 ---
 type: page
 title: "cooplab.org"
-date: 2026-04-03
-status: ouverture
+date: 2026-06-29
+status: actif
 orientation: enquete-situee
-regime: seuil
-description: "Un habitant-chercheur au travail : habiter ensemble ce territoire qui va changer, et se préparer à l'urgence des communs."
+regime: en-mouvement
+description: "Un habitant-chercheur au travail : huit ans dans la lisière Sud Berry / Creuse, et maintenant quelque chose qui bascule."
 publish: true
 ---
-# Un espace d'enquête où l'expérience vécue devient connaissance.
-## Vivre laisse des traces irrévocables 
 
-> _À quelles conditions ce que je produis comme connaissance tient - pour moi, et pour d'autres ?_
+*Veni* — 26 mai 2018, place du marché de La Châtre. AG "Habiter le Boischaut Sud." *Terra incognita.*
 
-Ce que j'ai vécu ne disparaît pas, je le retrouve dans ce que je fais aujourd'hui et ce que je fais aujourd'hui engage des futurs possibles.
-C'est le mouvement qui traverse tout ce qui se construit ici. Ces futurs possibles - que j'appellerai par la suite futuribles - ne sont pas des projections abstraites. Ils se construisent depuis le vécu, depuis le territoire, depuis les situations ordinaires qui font monde ensemble.
+*Vidi* — la maison, depuis laquelle il allait être possible de voir le territoire (non sans péripéties). Emménagement le 12 octobre.
 
-## Quatre espaces s'organisent autour de cette enquête :
- 
-- [cooplab.org](https://cooplab.org) : l'enquête qui se documente elle-même - billets, dossiers, fabrique
-- [utopia.cooplab.org](https://utopia.cooplab.org) : ce qui pourrait advenir ici - les futuribles, l'agenda civique en train de se construire
-- [these.cooplab.org](https://these.cooplab.org) : une thèse-vie hors les murs - sur ce que la recherche citoyenne fait à la connaissance[^2]
-- [cooplab.org/boussole](/boussole) : boussole : un point d'orientation pour circuler entre les espaces.
+*Didici* — huit ans de tâtonnements à agir dans l'indéterminé de l'infra-ordinaire : des phénomènes en cascade — au tempo des jours qui passent, en étant plus ou moins bousculé, cohérent, clairvoyant. Pour absorber, décrypter mes nouvelles réalités territoriales, ajuster, réajuster.
 
-## Une question traverse l'ensemble : de quelle intériorité citoyenne je parle ? [^1]
+Mais le tempo du premier semestre 2026 a une place toute particulière dans ces variations.
 
-Entre intériorité citoyenne et futurs possibles, il s'agit de tenir une ligne de travail : faire de l'expérience vécue une source légitime de connaissance.
+---
 
-Ce que vous trouverez ici n'est ni un résultat, ni un programme, ni une vitrine. C'est un travail en train de se faire, une conversation continue : un mouvement en spirale où nos voix et nos vécus circulent pour transformer l'ordinaire en un territoire d'enquête partagé.
+## Ce qui se construit ici
 
-[^1]: > « L'intériorité citoyenne est la capacité à développer la connaissance de soi et l'ancrage dans ses valeurs profondes,l'inspiration et la créativité,la bienveillance et la capacité d'empathie,la recherche de sens et le goût de la responsabilité au service de la vie commune. » [Nourrir l'intériorité citoyenne
-au service de la transformation socioenvironnementale](https://www.lilotcoop.com/interiorite-citoyenne)
-[^2]: La « thèse-vie » désigne un processus de production de connaissance ancré dans l'expérience vécue, hors dépendance première à la validation institutionnelle.
+Trois chantiers entrelacés, une même intention : faire de l'expérience vécue une source légitime de connaissance.
+
+- **[cooplab.org](https://cooplab.org)** — l'enquête qui se documente elle-même
+- **[utopia.cooplab.org](https://utopia.cooplab.org)** — ce qui émerge sur le terrain : le "premier kilomètre" en acte
+- **[these.cooplab.org](https://these.cooplab.org)** — une thèse-vie hors les murs : *L'évaluation comme milieu réflexif du collectif pensant*
+- **[cooplab.org/boussole](/boussole)** — point d'orientation entre les espaces
+
+L'ensemble est enchâssé dans une perspective commune : TEEPEE / Émergence recherche partagée, été 2026-été 2027. Chantiers entrelacés : Utopia (living lab, «premier kilomètre»), CARe — communautés apprenantes Robustesse et soin nationale et locale (*«Ah si la lisière Sud Berry / Creuse savait ce qu'elle sait et ce à quoi elle sert»*), soutien au projet de Parc naturel régional Sud Berry, TEEPEE (émergence recherche partagée). Les fils concrets : place du marché, café associatif Montgivray, Exhale, démocratie permanente CVL — tout ça relié, documenté, transmissible.
+
+→ [Les chantiers entrelacés — contexte, enjeux, références](https://cooplab.org/dossiers/chantiers-entrelaces/)
+
+---
+
+> *À quelles conditions ce que je produis comme connaissance tient — pour moi, et pour d'autres ?*
+
+Ce que vous trouverez ici n'est ni un résultat, ni un programme. C'est un travail en train de se faire. Une enquête habitée qui accepte de montrer les coutures.
+
+🌿 *Chaque artefact publié donne lieu à un post LinkedIn — [Depuis la lisière](https://linkedin.com)*
+
+---
 
 <div style="margin-top: 2rem;">
 <iframe
