@@ -1,4 +1,4 @@
-# Capacité politique — expérience de citoyenneté
+# Capacité politique : expérience de citoyenneté
 
 ## Idée centrale
 La citoyenneté peut être comprise comme une expérience vécue de capacité politique, et non uniquement comme un statut ou un ensemble de compétences formelles.

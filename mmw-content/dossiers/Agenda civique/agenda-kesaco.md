@@ -9,7 +9,7 @@ tags:
 ## 1.1 - Qu’appelle-t-on agenda ?"
 Dans les sciences sociales, la notion d’**agenda** désigne la manière dont certains enjeux, problèmes ou thèmes accèdent à une visibilité et à une reconnaissance comme prioritaires, tandis que d’autres restent marginalisés ou invisibles. Parler d’agenda ne revient donc pas à dresser une liste de sujets, mais à interroger **les processus par lesquels des problèmes sont sélectionnés, hiérarchisés et stabilisés dans le temps**.
 
-Cette notion s’est imposée pour rendre compte d’un fait central : toutes les situations susceptibles de faire problème ne deviennent pas des problèmes publics. L’agenda fonctionne comme un **dispositif de cadrage de la réalité sociale**, à travers lequel s’opère une réduction nécessaire — mais politiquement et socialement située — de la complexité du monde.
+Cette notion s’est imposée pour rendre compte d’un fait central : toutes les situations susceptibles de faire problème ne deviennent pas des problèmes publics. L’agenda fonctionne comme un **dispositif de cadrage de la réalité sociale**, à travers lequel s’opère une réduction nécessaire, mais politiquement et socialement située, de la complexité du monde.
 
 ---
 
@@ -52,7 +52,7 @@ Penser l’agenda comme un processus temporel permet de dépasser une vision sta
 
 ## 1.5 L’agenda comme outil analytique
 
-Pris ensemble, ces trois dimensions — sélectivité, hiérarchisation, temporalité — font de l’agenda un **outil analytique puissant** pour comprendre :
+Pris ensemble, ces trois dimensions, sélectivité, hiérarchisation, temporalité, font de l’agenda un **outil analytique puissant** pour comprendre :
 - pourquoi certains enjeux deviennent des problèmes publics,
 - comment se structurent les priorités collectives,
 - et quels acteurs disposent d’un pouvoir d’influence sur ce processus.

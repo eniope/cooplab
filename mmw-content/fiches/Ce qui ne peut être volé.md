@@ -1,4 +1,4 @@
-# Verstohlen — furtivité et engagement civique
+# Verstohlen : furtivité et engagement civique
 
 ## Idée centrale
 L’humanisme est fragile : les formes de lien collectif doivent intégrer cette fragilité pour être soutenables.

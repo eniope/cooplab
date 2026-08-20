@@ -58,34 +58,34 @@ Elle donne des repères, mais **n’a rien de définitif**.  Elle pourra évolue
 
 ### I. Repères généraux
 
-– Qu’appelle-t-on un « agenda » en sciences sociales ?  
-– Sélectivité, hiérarchisation, temporalité des enjeux  
-– Typologie des agendas (public, médiatique, politique, organisationnel, civique)
+- Qu’appelle-t-on un « agenda » en sciences sociales ?  
+- Sélectivité, hiérarchisation, temporalité des enjeux  
+- Typologie des agendas (public, médiatique, politique, organisationnel, civique)
 
 ### II. L’agenda civique dans la littérature
 
-– Définitions académiques  
-– Ancrages théoriques  
-– Débats, tensions et usages concurrents
+- Définitions académiques  
+- Ancrages théoriques  
+- Débats, tensions et usages concurrents
 
 ### III. Ce que l’agenda civique n’est pas-
 
 
-– Clarifications nécessaires  
-– Confusions fréquentes  
-– Pourquoi ces distinctions comptent pour l’action
+- Clarifications nécessaires  
+- Confusions fréquentes  
+- Pourquoi ces distinctions comptent pour l’action
 
 ### IV. Observer et documenter un agenda civique
 
-– Discours, actions, réseaux, trajectoires  
-– Méthodes d’analyse et de suivi  
-– Rôle des dispositifs documentaires et de la médiation
+- Discours, actions, réseaux, trajectoires  
+- Méthodes d’analyse et de suivi  
+- Rôle des dispositifs documentaires et de la médiation
 
 ### V. Agendas civiques et autres agendas
 
-– Convergences et conflits  
-– Traductions, récupérations, neutralisations  
-– Le rôle des « passeurs d’agenda »
+- Convergences et conflits  
+- Traductions, récupérations, neutralisations  
+- Le rôle des « passeurs d’agenda »
 
 ### VI. Du personnel au collectif : intériorité citoyenne et tenue d’un agenda civique
 - La capacité politique comme expérience vécue
@@ -97,9 +97,9 @@ Elle donne des repères, mais **n’a rien de définitif**.  Elle pourra évolue
   
 ### VII. Appropriations situées (à venir)
 
-– Ce que la notion rend possible localement  
-– Ce qu’elle complique ou empêche  
-– Conditions d’un usage non épuisant
+- Ce que la notion rend possible localement  
+- Ce qu’elle complique ou empêche  
+- Conditions d’un usage non épuisant
 
 ---
 

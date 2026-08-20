@@ -6,7 +6,7 @@ status: public
 auteur: "je"
 destinataire: "futur-moi"
 projet: "Thèse-vie"
-these: "L’évaluation comme conduite du collectif pensant : vers une épistémologie développementale des sciences citoyennes"
+these: "L’évaluation comme milieu réflexif du collectif pensant : vers une épistémologie développementale des sciences citoyennes pratiquées depuis nos vies quotidiennes"
 regime_ecriture:
   - introspectif
   - narratif
@@ -40,7 +40,7 @@ notes_meta:
 Hey vieux ! eh ben, t’as bien réussi ton coup.
 
 Franchement, je commençais à douter que tu allais oser mettre en place tout ce qu’il fallait pour porter hors de toi, et rendre intelligible, ton projet de thèse :
-*« L’évaluation comme conduite du collectif pensant : vers une épistémologie développementale des sciences citoyennes ».*
+*« L’évaluation comme milieu réflexif du collectif pensant : vers une épistémologie développementale des sciences citoyennes pratiquées depuis nos vies quotidiennes ».*
 
 Pas le titre mais le geste qu’il recouvre.
 
