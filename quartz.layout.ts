@@ -41,7 +41,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.DesktopOnly(
       Component.Explorer({
         folderClickBehavior: "link",
-        filterFn: (node) => node.name !== "templates",
+        filterFn: (node) => !["templates", "pages"].includes(node.name),
       })
     ),
   ],
@@ -50,7 +50,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.MobileOnly(
       Component.Explorer({
         folderClickBehavior: "link",
-        filterFn: (node) => node.name !== "templates",
+        filterFn: (node) => !["templates", "pages"].includes(node.name),
       })
     ),
     Component.DesktopOnly(Component.Graph()),
@@ -75,7 +75,7 @@ export const defaultListPageLayout: PageLayout = {
     Component.DesktopOnly(
       Component.Explorer({
         folderClickBehavior: "link",
-        filterFn: (node) => node.name !== "templates",
+        filterFn: (node) => !["templates", "pages"].includes(node.name),
       })
     ),
   ],
@@ -84,7 +84,7 @@ export const defaultListPageLayout: PageLayout = {
     Component.MobileOnly(
       Component.Explorer({
         folderClickBehavior: "link",
-        filterFn: (node) => node.name !== "templates",
+        filterFn: (node) => !["templates", "pages"].includes(node.name),
       })
     ),
     Component.DesktopOnly(Component.Graph()),
