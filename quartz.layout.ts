@@ -4,12 +4,8 @@ import * as Component from "./quartz/components"
 /**
  * Layout — cooplab.org (hub)
  *
- * Différences vs conversations :
- * - Pas de Graph
- * - Pas de Backlinks
- * - Pas de TableOfContents (pages courtes)
- * - LinksHeader simplifié (3 destinations)
- * - Search conservé
+ * Aligné sur lisieres.cooplab.org et these.cooplab.org :
+ * Graph, TableOfContents et Backlinks présents sur les pages de contenu.
  */
 
 export const sharedPageComponents: SharedLayout = {
@@ -33,9 +29,10 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Breadcrumbs(),
     Component.ArticleTitle(),
     Component.ContentMeta(),
+    Component.TagList(),
   ],
 
- left: [
+  left: [
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
@@ -55,6 +52,9 @@ export const defaultContentPageLayout: PageLayout = {
         filterFn: (node) => node.name !== "templates",
       })
     ),
+    Component.DesktopOnly(Component.Graph()),
+    Component.DesktopOnly(Component.TableOfContents()),
+    Component.Backlinks(),
   ],
 }
 
@@ -85,5 +85,8 @@ export const defaultListPageLayout: PageLayout = {
         filterFn: (node) => node.name !== "templates",
       })
     ),
+    Component.DesktopOnly(Component.Graph()),
+    Component.DesktopOnly(Component.TableOfContents()),
+    Component.Backlinks(),
   ],
 }
