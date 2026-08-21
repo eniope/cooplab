@@ -77,13 +77,9 @@ Avec Christophe Deschamps, *Le nouveau management de l'information*, puis mes pr
 
 Les schémas réalisés par Arnaud Velten pour l'ouvrage de Christophe Deschamps mettent notamment en relation des figures qui me frappent aujourd'hui : travailleur du savoir, usager innovateur, e-citoyen, journaliste citoyen, développement personnel et intelligence collective.
 
-![Schéma d'Arnaud Velten : les figures du travailleur du savoir (usager innovateur, journaliste citoyen, e-citoyen, développement personnel, intelligence collective) autour du Web 2.0.](/images/velten-1.jpg)
+<p style="text-align:center"><img src="/images/velten-3.png" alt="Schéma d'Arnaud Velten : de l'entreprise 1.0 à l'entreprise 2.0, contraintes et outils du travailleur du savoir." style="max-width:min(100%,440px);height:auto"></p>
 
-![Schéma d'Arnaud Velten : les rapports (au travail, aux TIC, aux autres) et les besoins (reconnaissance, autonomie) du travailleur du savoir.](/images/velten-2.jpg)
-
-![Schéma d'Arnaud Velten : de l'entreprise 1.0 à l'entreprise 2.0, contraintes et outils du travailleur du savoir.](/images/velten-3.png)
-
-*Schémas : Arnaud Velten, pour Christophe Deschamps, Le nouveau management de l'information (FYP éditions, 2009). Reproduits ici à titre de citation, crédités à leur auteur.*
+*Schéma : Arnaud Velten, pour Christophe Deschamps, Le nouveau management de l'information (FYP éditions, 2009), à titre de citation. La série complète des schémas est [visible ici](http://nouveaumanagementdelinformation.viabloga.com/news/pourquoi-l-entreprise-2-0-pourquoi-maintenant-pourquoi-il-faut-y-aller-explication-en-image).*
 Ces schémas, publiés en 2009, plusieurs années après mes premiers pas dans le numérique connecté, n'ont évidemment pas déterminé mon parcours commencé en 2003.
 Je peux en revanche les utiliser aujourd'hui comme analyseurs rétrospectifs : plusieurs problèmes qu'ils représentaient séparément se sont progressivement entrelacés dans ma propre expérience.
 
@@ -253,15 +249,11 @@ Cette page est elle-même un document situé et susceptible d'être mis à jour.
 - Kate Crawford & Vladan Joler, *Calculating Empires. A Genealogy of Technology and Power Since 1500*, 2023-2024, [calculatingempires.net](https://calculatingempires.net/about).
 - *Émulations*, appel à articles « Le citoyen, la science et la société : quand la connaissance émerge des citoyens » ([Calenda](https://calenda.org/1253247)).
 - Baromètre français de la Science Ouverte, MESR, [barometredelascienceouverte.esr.gouv.fr](https://barometredelascienceouverte.esr.gouv.fr/).
+- Alfred Sauvy, *L'Opinion publique*, PUF, coll. « Que sais-je ? », 1956 (origine de la formule « Bien informés, les hommes sont des citoyens... »).
 - Bruno Latour, *Où atterrir ? Comment s'orienter en politique*, La Découverte, coll. « Petits cahiers libres », 2017 (ISBN 9782707197818). [La Découverte](https://www.editionsladecouverte.fr/ou_atterrir_-9782707197818)
 - Thanh Nghiem / réseau angenius, *Territoires Intelligents et Communautés Apprenantes* (TICA), concept prospectif, 2006. [angenius](https://www.angenius.org/tiki-index.php?page=TICA)
-- « À chacun son teppaz », manifestation de créations partagées (Jean-Pierre Seyvos, association S-composition, avec la mairie de Montgivray), Moulin des Ribattes, Montgivray, 1er juin 2019. [s-composition.eu](https://s-composition.eu/les-creations-partagees/a-chacun-son-teppaz/)
+- « À chacun son teppaz », manifestation de créations partagées (Jean-Pierre Seyvos, association S-composition, avec la mairie de Montgivray), Moulin des Ribattes, Montgivray, 1er juin 2019 ([s-composition.eu](https://s-composition.eu/les-creations-partagees/a-chacun-son-teppaz/), [La Nouvelle République](https://www.lanouvellerepublique.fr/la-chatre/creation-participative-autour-de-la-musique)). La présence de Bruno Latour y est mentionnée par *Campagnes Solidaires* n°377, novembre 2021, p. 19.
 - Robustesse et soin, communauté apprenante nationale : [larobustesse.org](https://larobustesse.org/soin/?CaillaudStephane/)
-
-**À vérifier ou préciser**
-
-- Alfred Sauvy, « Bien informés, les hommes sont des citoyens... » : citation très largement reprise, mais sans source primaire établie. À traiter comme attribution courante.
-- Le lien entre « À chacun son teppaz » (manifestation musicale du 1er juin 2019) et la venue de Bruno Latour à Montgivray : la documentation de l'événement ne mentionne pas Latour. À confirmer, ou à rattacher au dispositif exact (possible autre événement, ou confusion avec un TEPOS, territoire à énergie positive).
 
 ---
 *Stéphane Caillaud · Cette page est un document situé, daté et révisable · CC BY-SA 4.0*
