@@ -2,7 +2,7 @@
 type: page
 title: "Fiches"
 date: 2026-01-04
-status: expérimental
+statut: expérimental
 orientation: documentation
 regime: orientation
 ---

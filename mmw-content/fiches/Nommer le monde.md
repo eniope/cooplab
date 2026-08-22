@@ -1,3 +1,9 @@
+---
+uid: nommer-le-monde
+title: "Nommer le monde"
+type: fiche
+---
+
 # Action, nomination et expérience partagée
 
 ## Idée centrale

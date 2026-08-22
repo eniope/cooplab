@@ -2,7 +2,7 @@
 type: page
 title: "cooplab.org"
 date: 2026-04-03
-status: ouverture
+statut: ouverture
 orientation: enquete-situee
 regime: seuil
 description: "Un habitant-chercheur au travail : habiter ensemble ce territoire qui va changer, et se préparer à l'urgence des communs."

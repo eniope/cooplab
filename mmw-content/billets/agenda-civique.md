@@ -2,7 +2,7 @@
 title: "Agenda civique ?"
 publishDate: 2026-01-28
 type: billet
-status: published
+statut: published
 tags:
   - agenda-civique
   - sciences-citoyennes

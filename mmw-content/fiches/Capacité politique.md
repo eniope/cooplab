@@ -1,3 +1,9 @@
+---
+uid: capacite-politique
+title: "Capacité politique"
+type: fiche
+---
+
 # Capacité politique : expérience de citoyenneté
 
 ## Idée centrale

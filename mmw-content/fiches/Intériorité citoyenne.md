@@ -1,3 +1,9 @@
+---
+uid: interiorite-citoyenne
+title: "Intériorité citoyenne"
+type: fiche
+---
+
 # Intériorité citoyenne
 
 ## Définition (pragmatique)

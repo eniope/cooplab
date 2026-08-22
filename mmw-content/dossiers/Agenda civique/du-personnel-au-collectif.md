@@ -1,7 +1,7 @@
 ---
 title: "6 - Du personnel au collectif"
 type: dossier
-status: draft
+statut: draft
 tags:
 - agenda-civique
 - interiorite-citoyenne
