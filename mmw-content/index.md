@@ -104,6 +104,10 @@ La formulation de Bruno Latour, rencontrée avant de le rencontrer lui-même, m'
 
 Je ne rassemble pas ces références parce qu'elles diraient la même chose, mais parce qu'elles m'aident à ne pas perdre certaines questions en chemin.
 
+## Regarder les situations : « Je, Nous, Dans »
+
+Pour regarder une situation ou ouvrir une sous-enquête, je m’appuie sur une grille que propose l’Institut des Territoires Coopératifs (InsTerCoop) : « Je, Nous, Dans », les récursions entre la personne dans sa singularité, le collectif, et le milieu où s’inscrit l’action. Chacun transforme les autres, et ces liens, au sens où Edgar Morin l’entend, restent le plus souvent non pensés. C’est pour moi un des ponts les plus courts entre l’expérience située, les mondes sociaux auxquels je participe et l’évaluation comme milieu réflexif du collectif pensant : rendre ces récursions perceptibles et discutables par le collectif lui-même, c’est déjà commencer à évaluer.
+
 ## Une vie dans l'histoire du calcul
 
 Je peux aujourd'hui porter un autre regard sur la bifurcation de 2003.
@@ -255,6 +259,7 @@ Cette page est elle-même un document situé et susceptible d'être mis à jour.
 - Thanh Nghiem / réseau angenius, *Territoires Intelligents et Communautés Apprenantes* (TICA), concept prospectif, 2006. [angenius](https://www.angenius.org/tiki-index.php?page=TICA)
 - « À chacun son teppaz », manifestation de créations partagées (Jean-Pierre Seyvos, association S-composition, avec la mairie de Montgivray), Moulin des Ribattes, Montgivray, 1er juin 2019 ([s-composition.eu](https://s-composition.eu/les-creations-partagees/a-chacun-son-teppaz/), [La Nouvelle République](https://www.lanouvellerepublique.fr/la-chatre/creation-participative-autour-de-la-musique)). La présence de Bruno Latour y est mentionnée par *Campagnes Solidaires* n°377, novembre 2021, p. 19.
 - Robustesse et soin, communauté apprenante nationale : [larobustesse.org](https://larobustesse.org/soin/?CaillaudStephane/)
+- Institut des Territoires Coopératifs (InsTerCoop), approche « Je, Nous, Dans » (personne / collectif / milieu de l’action) et « maturité coopérative », issues de l’Observatoire de l’Implicite (Anne et Patrick Beauvillard) ; la récursion y est rapportée à Edgar Morin (autonomie et auto-organisation des systèmes). [Définition](https://instercoop.fr/portfolio-item/maturite-cooperative-definition/) ; [Le développement par la coopération](https://instercoop.fr/portfolio-item/le-developpement-par-la-cooperation-bilan/)
 
 ---
 *Stéphane Caillaud · Cette page est un document situé, daté et révisable · CC BY-SA 4.0*
