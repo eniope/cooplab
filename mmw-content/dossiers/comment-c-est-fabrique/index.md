@@ -60,3 +60,17 @@ Peut-être est-ce aussi par là que peut commencer à se comprendre ce que j'app
 Sources : [références documentaires](/refs/).
 
 *Stéphane Caillaud · Document situé, daté et révisable · CC BY-SA 4.0*
+
+---
+
+## Ce dossier, à venir
+
+Cette page en est le seuil. Les suivantes viendront au fil de l'écriture, rien n'est arrêté :
+
+- **La chaîne des opérations** : vivre, remarquer, tracer, constituer en donnée, contextualiser, relier, interpréter, mettre à l'épreuve, une page qui tient ces seuils ensemble.
+- **Le vault comme infrastructure** : ce que datent, relient et qualifient réellement les fiches.
+- **IA et RAG dans l'enquête** : ce que le dispositif déplace, et pourquoi il n'est pas neutre.
+- **L'évaluation** : qu'est-ce qui compte, et qui décide de ce qui compte.
+- **Passerelle** : « Les données de ma recherche » sur these.cooplab.org, versant thèse de la même fabrique.
+
+*Provisoire. À garder, déplacer ou couper.*

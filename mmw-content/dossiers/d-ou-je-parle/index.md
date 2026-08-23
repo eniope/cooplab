@@ -138,3 +138,16 @@ C'est l'une des questions auxquelles renvoie aujourd'hui le titre provisoire de 
 Les sources citées dans ce dossier sont rassemblées dans les [références documentaires](/refs/).
 
 *Stéphane Caillaud · Document situé, daté et révisable · CC BY-SA 4.0*
+
+---
+
+## Ce dossier, à venir
+
+Cette page en est le seuil. Les suivantes viendront au fil de l'écriture, rien n'est arrêté :
+
+- **Le Boischaut Sud, un premier kilomètre** : le terrain comme milieu d'enquête, pas comme décor.
+- **« À chacun son teppaz » (2019)** : l'épisode, le dispositif participatif, la venue de Latour.
+- **Habitant-chercheur auto-missionné** : la posture, ce qu'elle autorise et les gardes-fous qu'elle demande.
+- **La thèse-vie** : le titre provisoire tenu comme une question de travail, pas comme une annonce.
+
+*Provisoire. À garder, déplacer ou couper.*
