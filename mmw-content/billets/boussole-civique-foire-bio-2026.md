@@ -11,7 +11,7 @@ represente:
   - episode-2026-08-29-foire-bio-neuvy
 ---
 
-Cet été donne une résonance particulière à trois verbes que j'ai rencontrés dans le programme [Communs d'urgence](https://www.rfflabs.fr/communs-durgence/) (Renforcer les espaces du faire comme infrastructures citoyennes de résilience et redonner du pouvoir d'agir aux citoyens face aux crises.) :
+Cet été donne une résonance particulière à trois verbes que j'ai rencontrés dans le programme [Communs d'urgence](https://www.rfflabs.fr/communs-durgence/) (*Renforcer les espaces du faire comme infrastructures citoyennes de résilience et redonner du pouvoir d'agir aux citoyens face aux crises*.) :
 
 > se souvenir, se préparer, se projeter.
 
