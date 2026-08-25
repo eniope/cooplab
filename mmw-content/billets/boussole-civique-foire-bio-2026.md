@@ -11,7 +11,7 @@ represente:
   - episode-2026-08-29-foire-bio-neuvy
 ---
 
-Cet été donne une résonance particulière à trois verbes que j'ai rencontrés dans le programme [Communs d'urgence](https://www.rfflabs.fr/communs-durgence/) (*Renforcer les espaces du faire comme infrastructures citoyennes de résilience et redonner du pouvoir d'agir aux citoyens face aux crises*.) :
+Cet été donne une résonance particulière à trois verbes que j'ai rencontrés dans le programme [Communs d'urgence](https://www.rfflabs.fr/communs-durgence/) Renforcer les espaces du faire comme infrastructures citoyennes de résilience et redonner du pouvoir d’agir aux citoyens face aux crises. :
 
 > se souvenir, se préparer, se projeter.
 
@@ -29,11 +29,14 @@ Par agenda civique, j'entends quelque chose de très simple : choisir de consacr
 
 Cette année, deux moments du programme attirent particulièrement mon attention : deux tables rondes consacrées au devenir du projet de Parc naturel régional et, donc, du Sud-Berry. L'une autour d'une possible « vision commune pour notre territoire » que représente ce projet, l'autre autour du bocage et de son avenir.
 
-Et, dans le contexte de cet été, une question devient difficile à éviter :
+Et, dans le contexte de cet été, la thématique de la préparation du prochain congrès des PNR[^3] qui a retenu le « prendre soin » comme thème central est devenue encor plus à propos. 
 
+Et, finalement, voici la question que je me poserai lors de cette 51ème foire bio de Neuvy Saint-Sépulchre ? : 
 > que peut faire une table ronde à la capacité d'un territoire à se souvenir, se préparer et se projeter ?
 
 [^capacite]: Voir la fiche [[fiches/Capacité politique]].
 [^agenda]: Sur cette notion, voir le billet [[billets/agenda-civique]].
+[^3]: [Webinaire du 9 juin "Prendre soin de nos territoires et du vivant : une stratégie pertinente ?"](https://www.parcs-naturels-regionaux.fr/agenda/parcs/webinaire-prendre-soin-de-nos-territoires-et-du-vivant-une-strategie-pertinente)
+
 
 *Stéphane Caillaud · CC BY-SA 4.0*
