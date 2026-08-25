@@ -3,9 +3,9 @@ uid: boussole-civique-foire-bio-2026
 type: note
 title: "Se souvenir, se préparer, se projeter"
 date: 2026-08-25
-statut: a_relire
-draft: true
-publish: false
+statut: en cours
+draft: false
+publish: true
 description: "Trois verbes croisés dans les Communs d'urgence, et pourquoi ils m'ont fait mettre la Foire Bio de Neuvy à mon agenda civique."
 represente:
   - episode-2026-08-29-foire-bio-neuvy
