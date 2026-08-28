@@ -45,7 +45,7 @@ Cooplab reste le lieu où ces différentes entrées peuvent être remises en rel
 
 En 2026, cette enquête a trouvé une formulation provisoire sous la forme d’une **thèse-vie** :
 
-_L’évaluation comme milieu réflexif du collectif pensant : vers une épistémologie développementale des sciences citoyennes pratiquées depuis nos vies quotidiennes et sociales._
+_L’évaluation comme milieu réflexif du collectif pensant : vers une épistémologie développementale des sciences citoyennes pratiquées depuis l’infra-ordinaire de nos vies quotidiennes et sociales._
 
 Par **thèse-vie**, je désigne ici une recherche dont la formalisation académique ne se sépare pas d’une enquête menée depuis une existence située, ses expériences, ses engagements, ses rencontres et les traces qu’elle produit.
 

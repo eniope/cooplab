@@ -132,7 +132,7 @@ Mais plutôt :
 *À quelles conditions une expérience située, appareillée, documentée et mise en discussion peut-elle contribuer à produire une connaissance publiquement et scientifiquement discutable ?*
 
 C'est l'une des questions auxquelles renvoie aujourd'hui le titre provisoire de ma thèse-vie :
-*L'évaluation comme milieu réflexif du collectif pensant : vers une épistémologie développementale des sciences citoyennes pratiquées depuis nos vies quotidiennes et sociales.*
+*L'évaluation comme milieu réflexif du collectif pensant : vers une épistémologie développementale des sciences citoyennes pratiquées depuis l'infra-ordinaire de nos vies quotidiennes et sociales.*
 
 ---
 Les sources citées dans ce dossier sont rassemblées dans les [références documentaires](/refs/).
