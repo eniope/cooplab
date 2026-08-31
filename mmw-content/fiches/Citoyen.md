@@ -3,7 +3,6 @@ uid: laver-citoyen
 title: "Citoyen"
 type: fiche
 statut: à laver
-draft: true
 ---
 
 # Citoyen

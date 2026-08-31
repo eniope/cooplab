@@ -3,7 +3,6 @@ type: page
 title: "Laver les mots"
 date: 2026-08-31
 statut: expérimental
-draft: true
 orientation: pratique
 regime: orientation
 ---

@@ -4,8 +4,7 @@ type: note
 title: "Faire parc, ensemble : de quel ensemble parle-t-on ?"
 date: 2026-08-30
 statut: en cours
-draft: true
-publish: false
+publish: true
 description: "Le jour d’après la table ronde PNR Sud-Berry : la reprise a été posée devant l’assemblée, avec une condition, ensemble. De quel ensemble parle-t-on ?"
 represente:
   - episode-2026-08-29-foire-bio-neuvy
