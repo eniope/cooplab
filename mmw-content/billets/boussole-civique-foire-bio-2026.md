@@ -29,7 +29,7 @@ Par agenda civique, j'entends quelque chose de très simple : choisir de consacr
 
 Cette année, deux moments du programme attirent particulièrement mon attention : deux tables rondes consacrées au devenir du projet de Parc naturel régional et, donc, du Sud-Berry. L'une autour d'une possible « vision commune pour notre territoire » que représente ce projet, l'autre autour du bocage et de son avenir.
 
-Et, dans le contexte de cet été, la thématique de la préparation du prochain congrès des PNR[^3] qui a retenu le « prendre soin » comme thème central est devenue encor plus à propos. 
+Et, dans le contexte de cet été, la thématique de la préparation du prochain congrès des PNR[^3] qui a retenu le « prendre soin » comme thème central est devenue encore plus à propos. 
 
 Et, finalement, voici la question que je me poserai lors de cette 51ème foire bio de Neuvy Saint-Sépulchre ? : 
 > que peut faire une table ronde à la capacité d'un territoire à se souvenir, se préparer et se projeter ?

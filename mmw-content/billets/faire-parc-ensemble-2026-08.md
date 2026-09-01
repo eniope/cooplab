@@ -10,11 +10,9 @@ represente:
   - episode-2026-08-29-foire-bio-neuvy
 ---
 
-Le lendemain j’écris à froid ce que j’ai entendu à chaud.
+Samedi 29 août 2026, à la Foire Bio de Neuvy-Saint-Sépulchre, s'est tenue la table ronde _« Le PNR Sud Berry : une vision commune pour le territoire ? »_ La reprise du processus de travail (mis en pause précédemment) a été posée formellement devant l’assemblée présente.
 
-Samedi 29 août 2026, à la Foire Bio de Neuvy-Saint-Sépulchre, dès l’ouverture de la table ronde _« Le PNR Sud Berry : une vision commune pour le territoire ? »_, la reprise formelle du processus de travail (mis en pause précédemment) a été posée devant l’assemblée présente.
-
-Cette perspective n’est pas venue seule. Elle s’est aussitôt accompagnée d’une condition qui m’a semblé largement partagée : oui, mais à condition de faire ensemble.
+Cette perspective n’est pas venue seule. Elle s’est aussitôt accompagnée d’une condition qui m’a semblé largement partagée : oui, mais à condition de **faire ensemble.**
 
 Ce « faire ensemble » ouvre une dynamique porteuse d’imaginaires et de logiques multiples. Mais l’hétérogénéité qu’il suppose est aussi germe de complexité : faire ensemble ne consiste pas seulement à réunir des volontés, mais à composer avec des positions, des intérêts, des rythmes, des savoirs et des manières d’habiter le territoire qui ne coïncident pas spontanément. C’est peut-être précisément là que commence le travail : non pas effacer ces écarts au nom d’une vision commune, mais créer les conditions pour qu’ils puissent être exprimés, mis en discussion et travaillés collectivement. 
 
