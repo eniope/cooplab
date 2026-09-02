@@ -1,6 +1,7 @@
 ---
 title: "Lettre à mon futur moi"
 publishDate: 2026-01-20
+date: 2026-01-20
 type: lettre
 statut: public
 auteur: "je"

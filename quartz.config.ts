@@ -20,7 +20,7 @@ const config: QuartzConfig = {
 
     ignorePatterns: ["private", "**/templates/", ".obsidian", "_static", "boussole.md"],
 
-    defaultDateType: "published",
+    defaultDateType: "created",
     generateSocialImages: false,
 
     theme: {
