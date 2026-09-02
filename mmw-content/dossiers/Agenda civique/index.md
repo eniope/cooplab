@@ -8,6 +8,16 @@ tags:
 draft: false
 ---
 
+> [!infobox]
+> ### Ce dossier fait partie de la constellation *Conversations en lisières/Collaborations*
+> <p style="text-align:center;">
+>   <img src="/static/images/agenda-civique.png" style="max-width:80%; height:auto;" />
+> </p> 
+>
+> #### Pages associées
+>- [1 - Notions générales](https://eniope.github.io/conversations-en-lisieres.collaborations/dossiers/Agenda-civique/agenda-kesaco)
+>- [6 - Du personnel au collectif](https://eniope.github.io/conversations-en-lisieres.collaborations/dossiers/Agenda-civique/du-personnel-au-collectif)
+
 #_Agenda civique_
 
 Ce dossier rassemble un travail **en cours** autour de la notion d’**agenda civique**.
@@ -119,15 +129,3 @@ Il peut être parcouru partiellement, quitté, repris plus tard.
 Ce qui importe n’est pas d’en faire le tour, mais de voir s’il permet, à un moment donné, **d’éclairer une situation, une question, ou un geste en train de se chercher**.
 
 ---
-
-> [!infobox]
-> ### Ce dossier fait partie de la constellation *Conversations en lisières/Collaborations*
-> <p style="text-align:center;">
->   <img src="/static/images/agenda-civique.png" style="max-width:80%; height:auto;" />
-> </p> 
->
-> #### Pages associées
->- [1 - Notions générales](https://eniope.github.io/conversations-en-lisieres.collaborations/dossiers/Agenda-civique/agenda-kesaco)
->- [6 - Du personnel au collectif](https://eniope.github.io/conversations-en-lisieres.collaborations/dossiers/Agenda-civique/du-personnel-au-collectif)
-
-
