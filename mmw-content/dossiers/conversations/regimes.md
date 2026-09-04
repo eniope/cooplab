@@ -18,6 +18,8 @@ regime: orientation
 
 La grille de lecture, depuis la sémiotique des transactions coopératives (Zacklad). Pas une sixième sorte de conversation : la manière de lire les quatre autres. Une même conversation change de régime en cours de route ; nommer ces régimes, c'est se donner de quoi voir ces bascules.
 
+Ces régimes-ci sont ceux de la STC (le parcours transactionnel). À ne pas confondre avec les trois régimes de parole - conversation, discussion, dialogue : voir [[dossiers/conversations/trois-regimes|Trois régimes]].
+
 **Point d'entrée** - je suis entré dans ce sujet par Manuel Zacklad et sa sémiotique des transactions coopératives (STC).
 
 *(Amorce. À déplier : les régimes eux-mêmes, ce qui fait basculer de l'un à l'autre, ce que la STC de Zacklad apporte à la lecture des conversations en lisières.)*

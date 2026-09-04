@@ -32,6 +32,10 @@ C'est le milieu où l'on lave les mots. C'est aussi le milieu où l'incommunicat
 - la table du marché
 - les rencontres 
 
+## Pourquoi « conversation »
+
+Pourquoi ce mot, et pas discussion ni dialogue ? L'étymologie les tient distincts : *cum versari* (se tourner ensemble, cohabiter), *discussio* (ébranler, examiner en brisant), *dia-logos* (faire circuler le sens). Trois régimes de parole, pas trois intensités - et on choisit le milieu vivant. Voir [[dossiers/conversations/trois-regimes|Trois régimes : conversation, discussion, dialogue]].
+
 ## Ce qui vient
 
 Le milieu se déplie. Plusieurs pages sont en chantier, chacune étant une manière d'entrer dans une conversation - non pour la définir mais pour l'habiter.

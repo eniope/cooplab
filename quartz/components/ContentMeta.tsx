@@ -30,7 +30,8 @@ export default ((opts?: Partial<ContentMetaOptions>) => {
       const segments: (string | JSX.Element)[] = []
       const fileRelativePath = fileData.filePath
 
-      if (fileData.dates) {
+      // Pas de date sur les fiches (fiche-mot vivante, non datée)
+      if (fileData.dates && (fileData.frontmatter as any)?.type !== "fiche") {
         segments.push(formatDate(getDate(cfg, fileData)!, cfg.locale))
       }
 
