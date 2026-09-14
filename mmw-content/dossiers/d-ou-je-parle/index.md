@@ -30,6 +30,7 @@ Répondre à « d'où je parle ? » demande plusieurs histoires, pas un récit u
 - [[dossiers/d-ou-je-parle/une-recherche-qui-accepte-d-etre-deplacee|Une recherche qui accepte d'être déplacée]] - comment je cherche, et pourquoi.
 - [[dossiers/d-ou-je-parle/quand-la-connaissance-emerge-des-citoyens|Quand la connaissance émerge des citoyens]] - les sciences citoyennes, le titre-question de la thèse-vie.
 - [[dossiers/d-ou-je-parle/petit-sucre|Petit Sucre]] - une figure pour porter tout cela hors de moi.
+- [[dossiers/d-ou-je-parle/trajectoire|Trajectoire]] - un fanzine à cartes recto/verso, six scènes ordinaires d'une démarche menée depuis l'ordinaire.
 
 ---
 Les sources citées dans ce dossier sont rassemblées dans les [références documentaires](/refs/).
