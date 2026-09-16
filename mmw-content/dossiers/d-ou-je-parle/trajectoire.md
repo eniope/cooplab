@@ -17,12 +17,22 @@ regime: orientation
 
 **Trajectoire** est un fanzine à cartes recto/verso. Au recto, une scène vécue, ordinaire : un marché, une table où l'on ne se comprend pas tout à fait, une carte dépliée, un retour de courses la tête dans les étoiles. Au verso, ce que la scène met en travail : une question, des pistes, des ressources.
 
-On n'y suit pas une méthode en ligne droite. Le fil est une spirale : être concerné, enquêter, faire trace, faire circuler, penser avec d'autres, évaluer, apprendre et bifurquer. On entre par plusieurs gestes, on revient, on reprend une conversation, on perd une trace et on la retrouve.
+On n'y suit pas une méthode en ligne droite. Le fil est une spirale : être concerné, enquêter, faire trace, faire circuler, penser avec d'autres, évaluer, poursuivre. On entre par plusieurs gestes, on revient, on reprend une conversation, on perd une trace et on la retrouve.
 
 Ce ne sont pas les territoires qui parlent, ce sont des gens situés qui enquêtent sur ce qui leur arrive là où ils vivent. La dernière carte ne referme rien : elle nomme ce qui se poursuit, une capacité politique de citoyen à continuer d'habiter un monde avec d'autres. Pas un objectif atteint, une capacité à poursuivre.
 
 > [!note] Feuilleter Trajectoire
 > <a href="/static/trajectoire/index.html" target="_blank" rel="noopener"><strong>▶ Ouvrir le fanzine « Trajectoire »</strong></a> : six cartes à retourner, la scène au recto, ce qu'elle met en travail au verso.
+
+## Où ça se poursuit
+
+<!-- emplacement provisoire, à réaffecter selon décision : accroche de page / fil d-ou-je-parle / billet-appel dédié -->
+
+La dernière carte n'est pas qu'une image. Ce qu'elle nomme se joue déjà quelque part.
+
+D'ici au 15 octobre 2026, je souhaite contribuer à la constitution d'un groupe Sud-Berry/Creuse pour rejoindre la formation-action proposée par le Labo de l'ESS, e-graine et la Fabrique des transitions : « Réussir la transition écologique juste avec l'ESS et l'éducation populaire ». L'idée : partir de nos expériences associatives, citoyennes et territoriales pour explorer ce qui pourrait nous permettre d'apprendre à coopérer à l'échelle de cet espace de vie.
+
+Le Forum national de l'ESS, les 17 et 18 novembre à Niort, consacré à « Faire territoire ensemble », pourrait devenir une étape de ce cheminement.
 
 ## Deux mots
 

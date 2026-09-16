@@ -30,8 +30,12 @@ export default ((opts?: Partial<ContentMetaOptions>) => {
       const segments: (string | JSX.Element)[] = []
       const fileRelativePath = fileData.filePath
 
-      // Pas de date sur les fiches (fiche-mot vivante, non datée)
-      if (fileData.dates && (fileData.frontmatter as any)?.type !== "fiche") {
+      // Datation : affichée seulement sur les notes signées (position engagée).
+      // Défaut (champ `signature:` absent) = non signée / mise à disposition = pas de date.
+      // Jamais de date non plus sur les fiches (fiche-mot vivante, non datée).
+      const fm = fileData.frontmatter as any
+      const signee = String(fm?.signature ?? "").trim().toLowerCase().startsWith("sign")
+      if (fileData.dates && fm?.type !== "fiche" && signee) {
         segments.push(formatDate(getDate(cfg, fileData)!, cfg.locale))
       }
 
