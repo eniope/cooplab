@@ -30,7 +30,7 @@ terrain: Boischaut Sud
 >
 > J. Dewey[^2]
 
-« En vrai, on ne sait pas faire ! » Quelqu'un l'a écrit sur la flèche « Faire territoire ensemble ». Oh, quand même… Au pire, ça pourrait marcher, si… C'est la case 6 du fanzine [Trajectoire](/static/trajectoire/). Ce bulletin est la porte derrière cette flèche. Il dit où j'en suis à l'automne 2026, huit ans après le jour où, venant de Tours, j'ai participé à l'assemblée générale de l'association ADAR-Civam, dont la thématique 2018 était : « Habiter le Boischaut Sud, investir et s'investir : les actions collectives des acteurs ruraux ». Aujourd'hui, j'adhère à l'association. Pas un carrefour, un cap.
+« En vrai, on ne sait pas faire ! » Quelqu'un l'a écrit sur la flèche « Faire territoire ensemble ». Oh, quand même… Au pire, ça pourrait marcher, si… C'est la case 6 du fanzine [Trajectoire](https://cooplab.org/static/trajectoire/). Ce bulletin est la porte derrière cette flèche. Il dit où j'en suis à l'automne 2026, huit ans après le jour où, venant de Tours, j'ai participé à l'assemblée générale de l'association ADAR-Civam, dont la thématique 2018 était : « Habiter le Boischaut Sud, investir et s'investir : les actions collectives des acteurs ruraux ». Aujourd'hui, j'adhère à l'association. Pas un carrefour, un cap.
 
 ## Ce à quoi je prête attention
 
@@ -65,9 +65,9 @@ Je n'écris pas pour un « nous » qui n'existe pas encore. J'écris pour trois 
 
 ## Par où entrer
 
-Ce qui existe déjà : le fanzine [Trajectoire](/static/trajectoire/), dont la case 6 mène ici, et le dispositif décrit dans [Comment c'est fabriqué](/dossiers/comment-c-est-fabrique/).
+Ce qui existe déjà : le fanzine [Trajectoire](https://cooplab.org/static/trajectoire/), dont la case 6 mène ici, et le dispositif décrit dans [Comment c'est fabriqué](https://cooplab.org/dossiers/comment-c-est-fabrique/).
 
-Des billets déjà publiés servent de traces : [Délié d'un cadre, les jours d'après](/billets/2026-04-28-capacite-latente-activee), [Faire parc, ensemble ?](/billets/faire-parc-ensemble-2026-08) et [Agenda civique](/billets/agenda-civique). La fiche [Nommer le monde](/fiches/Nommer-le-monde) tient ensemble Freire et Dewey. La fiche [Systématisation d'expérience](/fiches/Systematisation-experience) présente la démarche d'Oscar Jara qui inspire ce bulletin.
+Des billets déjà publiés servent de traces : [Délié d'un cadre, les jours d'après](https://cooplab.org/billets/2026-04-28-capacite-latente-activee), [Faire parc, ensemble ?](https://cooplab.org/billets/faire-parc-ensemble-2026-08) et [Agenda civique](https://cooplab.org/billets/agenda-civique). La fiche [Nommer le monde](https://cooplab.org/fiches/Nommer-le-monde) tient ensemble Freire et Dewey. La fiche [Systématisation d'expérience](https://cooplab.org/fiches/Systematisation-experience) présente la démarche d'Oscar Jara qui inspire ce bulletin.
 
 ## Limites
 
