@@ -41,14 +41,6 @@ terrain: Boischaut Sud
 
 Je n'y suis pas toujours. Dans certains cas je suis en veille, depuis hors case, à regarder ce que cela produit. Cela ne m'empêche pas d'agir avec d'autres, en mobilisant d'autres ressources.
 
-## À qui ça sert
-
-Je n'écris pas pour un « nous » qui n'existe pas encore. J'écris pour trois façons d'arriver ici :
-
-- **Vous passez place du marché, à La Châtre.** Une façon d'entrer dans la conversation sans rien savoir du reste.
-- **Vous êtes en chemin avec moi** (CARe, l'université populaire des futurs essayés). Une boussole datée de mes préoccupations, que vous pouvez compléter, corriger ou contredire.
-- **Vous pratiquez ou étudiez les territoires** (associations, ESS, parcs, recherche participative). Des traces situées, en CC BY-SA, que vous pouvez reprendre.
-
 ## Ce sur quoi tout cela repose
 
 En toile de fond, la tentative de l'université populaire des futurs essayés, dont l'incubation s'amorce et n'a pas de bornes. Et une idée : une action locale soutenue par les recherches et sciences participatives, au sens de Wiggins et Crowston[^4], c'est-à-dire des habitants qui interviennent sur des préoccupations locales, avec la recherche comme outil au service d'agendas civiques.
@@ -62,6 +54,14 @@ Ce bulletin ouvre un premier exercice, de l'automne 2026 à l'été 2027. Je le 
 3. **Qu'est-ce que je me donne à observer et à apprendre pour me guider dans l'action ?** Une écologie des pratiques collectives, lue avec un pragmatisme transactionnel : quelles actions collectives auront poussé, comment, pourquoi, et si des pratiques se seront renouvelées. Si la loi de 1901 aura été honorée plutôt que réformée (on aura pris soin de l'associativité) : « elle n'a pas besoin d'être réformée, elle a besoin d'être honorée »[^5]. Si l'éveil à la complexité territoriale aura grandi. Si le convivialisme, savoir s'opposer sans se massacrer, aura gagné du terrain.
 
 Ces questions se reformuleront en « nous » si d'autres s'y reconnaissent.
+
+## À qui ça sert
+
+Je n'écris pas pour un « nous » qui n'existe pas encore. J'écris pour trois façons d'arriver ici :
+
+- **Vous passez place du marché, à La Châtre.** Une façon d'entrer dans la conversation sans rien savoir du reste.
+- **Vous êtes en chemin avec moi** (CARe, l'université populaire des futurs essayés). Une boussole datée de mes préoccupations, que vous pouvez compléter, corriger ou contredire.
+- **Vous pratiquez ou étudiez les territoires** (associations, ESS, parcs, recherche participative). Des traces situées, en CC BY-SA, que vous pouvez reprendre.
 
 ## Par où entrer
 
