@@ -30,7 +30,7 @@ terrain: Boischaut Sud
 >
 > J. Dewey[^2]
 
-« Au pire ça pourrait marcher, si… » : c'est la bulle de la case 6 du fanzine [Trajectoire](/static/trajectoire/), devant une flèche qui dit « Faire territoire ensemble ». Ce bulletin est la porte derrière cette flèche. Il dit où j'en suis à l'automne 2026, huit ans après l'assemblée générale de l'ADAR-Civam, dont la thématique ce jour-là était « Habiter le Boischaut Sud, investir et s'investir : les actions collectives des acteurs ruraux » (aujourd'hui j'y adhère), à qui il peut servir, et comment il va bouger jusqu'à l'été 2027. Pas un carrefour, un cap.
+« En vrai, on ne sait pas faire ! » Quelqu'un l'a écrit sur la flèche « Faire territoire ensemble ». Oh, quand même… Au pire, ça pourrait marcher, si… C'est la case 6 du fanzine [Trajectoire](/static/trajectoire/). Ce bulletin est la porte derrière cette flèche. Il dit où j'en suis à l'automne 2026, huit ans après « Habiter le Boischaut Sud, investir et s'investir : les actions collectives des acteurs ruraux » (aujourd'hui j'y adhère), à qui il peut servir, et comment il va bouger jusqu'à l'été 2027. Pas un carrefour, un cap.
 
 ## À qui ça sert
 
