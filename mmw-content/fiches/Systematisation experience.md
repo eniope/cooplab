@@ -24,6 +24,7 @@ Le visuel les présente en quatre temps. Dans son propre parcours, Jara distingu
 Un texte d'Oscar Jara dans la revue *Antipodes* (Iteco)[^2]. Ce qu'il met en avant :
 - Apprendre de nos pratiques est un souhait toujours valorisé, mais souvent non réalisé : l'activisme et le dévouement à nos idées y portent atteinte.
 - C'est un défi « non seulement méthodologique ou technique mais aussi fondamentalement politique : il permet de construire des capacités, du pouvoir ».
+- Deux options s'ouvrent. La première : la systématisation de données. La seconde, moins commune et plus complexe, va plus loin : elle envisage les expériences comme des processus historiques, des processus complexes où interviennent différents acteurs, dans un contexte économique et social déterminé, à un moment institutionnel dont nous faisons partie.
 - Systématiser des données n'est pas systématiser des expériences. Il s'agit de reconstruire ce qui s'est passé, puis de passer à l'interprétation critique : comprendre pourquoi ce qui est arrivé est arrivé.
 - Pas de recette : les modalités varient (participative, à la fin d'une expérience, au fur et à mesure), et il faut des conditions personnelles et institutionnelles, du temps et des ressources, comme pour la planification et l'évaluation.
 - On ne prétend pas être neutre : il s'agit d'objectiver le vécu en explicitant ce qu'on fait et en le regardant de manière critique. Le risque est une interprétation qui justifie au lieu de questionner.

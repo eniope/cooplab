@@ -22,15 +22,29 @@ terrain: Boischaut Sud
 
 # Bulletin de situation, automne 2026
 
-> « Exister humainement consiste à nommer le monde pour le changer. Une fois nommé, le monde à son tour réapparaît aux nommants comme un problème et requiert d'eux une nouvelle dénomination. »
+> [!quote]- Voix qui m'accompagnent (cliquer pour les entendre)
+> > « Exister humainement consiste à nommer le monde pour le changer. Une fois nommé, le monde à son tour réapparaît aux nommants comme un problème et requiert d'eux une nouvelle dénomination. »
+> >
+> > **P. Freire**[^1]
 >
-> P. Freire[^1]
-
-> « Notre Babel n'est pas de langues mais de signes et de symboles ; sans ceux-ci une expérience partagée est impossible. »
+> > « Notre Babel n'est pas de langues mais de signes et de symboles ; sans ceux-ci une expérience partagée est impossible. »
+> >
+> > **J. Dewey**[^2]
 >
-> J. Dewey[^2]
+> > « Rien de tel qu'un Vieux Continent pour reprendre à nouveaux frais ce qui est commun et s'apercevoir, en tremblant, que l'universelle condition aujourd'hui, c'est de vivre dans les ruines de la modernisation, en cherchant à tâtons où habiter. »
+> >
+> > **B. Latour**[^latour]
+>
+> **Stéphane Cordobes**, [« Territoire, l'éternel retour »](https://www.linkedin.com/pulse/territoire-l%C3%A9ternel-retour-stephane-cordobes)
+> > « Atterrir aujourd'hui, c'est moins reconnaître le territoire institué que convoquer un territoire instituant, lequel passe par un élargissement du regard et la considération de tous les modes d'existence qui animent nos espaces de cohabitation. Le tournant local désigne ainsi moins un état, une institution, une forme de domination et de gouvernement, un levier de croissance qu'un appel à la mobilisation et à la coopération d'acteurs, humains et non humains, inscrits dans des espaces communs, composés de lieux multiples, traversés de liens intenses et s'inscrivant dans plusieurs échelles. »
+>
+> **Isabelle Stengers**, [rencontre-discussion avec Houria Bouteldja](https://indigenes-republique.fr/rencontre-discussion-avec-houria-bouteldja-et-isabelle-stengers/)
+> > « C'est à la barbarie que nous condamnent les récits et raisonnements dont nous sommes littéralement noyés. Nous avons désespérément besoin d'autres histoires, non des contes de fées où tout est possible aux cœurs purs, aux âmes courageuses, ou aux bonnes volontés réunies, mais des histoires racontant comment des situations peuvent être transformées lorsque ceux qui les subissent réussissent à les penser ensemble. Non des histoires morales, mais des histoires « techniques » à propos de ce type de réussite, des pièges auxquels il s'agit, pour chacune, d'échapper, des contraintes dont elles ont reconnu l'importance. Bref, des histoires qui portent sur le penser ensemble comme « œuvre à faire ». »
+>
+> **Cynthia Fleury et Antoine Fenoglio**, [*Ce qui ne peut être volé*, charte du Verstohlen, 4e de couverture](https://tracts.gallimard.fr/products/ce-qui-ne-peut-etre-vole-charte-du-verstohlen)
+> > « Car nous sommes des hommes dont l'humanisme est fragile ; et chacun d'entre nous tisse dans la matière de sa vie des façons de se lier à des collectifs plus régulateurs, tout en assumant un principe d'individuation digne de ce nom, test de crédibilité de l'État de droit. Il s'agit dès lors d'inventer une technique de la furtivité – d'où cette charte tient sa désignation, le Verstohlen –, c'est-à-dire de maintien au monde en y consolidant nos pouvoirs d'agir et nos libertés. »
 
-« En vrai, on ne sait pas faire ! » Quelqu'un l'a écrit sur la flèche « Faire territoire ensemble ». Oh, quand même… Au pire, ça pourrait marcher, si… C'est la case 6 du fanzine [Trajectoire](https://cooplab.org/static/trajectoire/). Ce bulletin est la porte derrière cette flèche. Il dit où j'en suis à l'automne 2026, huit ans après le jour où, venant de Tours, j'ai participé à l'assemblée générale de l'association ADAR-Civam, dont la thématique 2018 était : « Habiter le Boischaut Sud, investir et s'investir : les actions collectives des acteurs ruraux ». Aujourd'hui, j'adhère à l'association. Pas un carrefour, un cap.
+« En vrai, on ne sait pas faire ! » Quelqu'un l'a écrit sur la flèche « Faire territoire ensemble ». Oh, quand même… Au pire, ça pourrait marcher, si… C'est la case 6 du fanzine [Trajectoire](https://cooplab.org/static/trajectoire/). Ce bulletin est la porte derrière cette flèche. Il dit où j'en suis à l'automne 2026, huit ans après le jour où, venant de Tours, j'ai participé à l'assemblée générale de l'association ADAR-Civam, dont la thématique 2018 était : « Habiter le Boischaut Sud, investir et s'investir : les actions collectives des acteurs ruraux ». Aujourd'hui, j'adhère à l'association, ce n'est pas un carrefour mais un cap.
 
 ## Ce à quoi je prête attention
 
@@ -84,5 +98,7 @@ Je parle hors les murs, sans cadre institutionnel ni collectif constitué. Les d
 [^4]: A. Wiggins et K. Crowston, « From Conservation to Crowdsourcing: A Typology of Citizen Science », HICSS-44, 2011. Type « action » : « Action-oriented citizen science projects encourage participant intervention in local concerns, using scientific research as a tool to support civic agendas. »
 
 [^5]: Tribune « Associations : « La loi de 1901 n'a pas besoin d'être réformée, elle a besoin d'être honorée » », Fondation de France et quinze autres responsables du secteur associatif et philanthropique, 2 juillet 2026, https://www.fondationdefrance.org/fr/cat-developper-la-philanthropie/la-france-qui-se-bat-celebrons-ce-qui-nous-lie-et-nous-unit
+
+[^latour]: Bruno Latour (2019), *Où atterrir ? Comment s'orienter en politique*, Paris, La Découverte.
 
 *CC BY-SA 4.0. Stéphane Caillaud.*
