@@ -72,7 +72,7 @@ C'est ce que j'appelle une [[fiches/Systematisation experience|systématisation 
 
 D'ici là, le récit continuera à se construire au fil des situations, des rencontres et des conversations.
 
-**Si vous avez envie d'en suivre les suites, vous pouvez me le faire savoir.** Un simple message à [adresse de contact, à poser] suffit, y compris sans souhaiter participer à quoi que ce soit.
+**Si vous avez envie d'en suivre les suites, vous pouvez me le faire savoir.** Un simple message à [contact@cooplab.org](mailto:contact@cooplab.org) suffit, y compris sans souhaiter participer à quoi que ce soit.
 
 Et si vous avez envie de réagir à ce que vous aurez lu, de partager une expérience ou de poser une question, la conversation est ouverte.
 
